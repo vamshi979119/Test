@@ -1,0 +1,6 @@
+namespace:
+    env: dev
+service:
+  type: myservice
+image:
+   repo: vamshi979119/python:v1
